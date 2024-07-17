@@ -1,5 +1,3 @@
-# Coffee-Shop-Sales
-
 # Coffee Shop Sales Analysis
 PROBLEM STATEMENT
 KPI'S REQUIREMENTS
