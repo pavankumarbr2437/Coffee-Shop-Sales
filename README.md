@@ -79,8 +79,9 @@ Total Qty Sold  was trending up between may 8 and may 9  2023 with a rise of 207
 #Dashboard Link - 
 https://app.powerbi.com/groups/me/reports/6fe76916-b983-42d6-93cd-eda87bec3a1e?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
 
-#Snapshot of Dashboard Image
-[coffee shop sales_image.pdf](https://github.com/user-attachments/files/16261099/coffee.shop.sales_image.pdf)
+# Snapshot of Dashboard sales_image
 
+![image](https://github.com/user-attachments/assets/5a82b44b-880d-4b2a-be73-5d39af69bdb7)
 
+[coffee shop sales_image.pdf](https://github.com/user-attachments/files/16261134/coffee.shop.sales_image.pdf)
 
