@@ -77,7 +77,7 @@ g) Sales Analysis by Store Location:
 Total Qty Sold  was trending up between may 8 and may 9  2023 with a rise of 207 and had a significant change and dropped by 185 on may 25 2023.
 
 #Dashboard Link - 
-https://app.powerbi.com/groups/me/reports/6fe76916-b983-42d6-93cd-eda87bec3a1e?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
+https://app.powerbi.com/links/3wDAwzQulG?ctid=0abc8a22-567e-4918-b31c-0bdf83a88a27&pbi_source=linkShare
 
 # Snapshot of Dashboard sales_image
 
